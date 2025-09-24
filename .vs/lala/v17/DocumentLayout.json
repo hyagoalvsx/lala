@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|c:\\users\\2024202060021\\downloads\\lala\\lala\\lala\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|solutionrelative:lala\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|c:\\users\\2024202060021\\downloads\\lala\\lala\\lala\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|solutionrelative:lala\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Carro.cs",
+              "RelativeDocumentMoniker": "lala\\Carro.cs",
+              "ToolTip": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Carro.cs",
+              "RelativeToolTip": "lala\\Carro.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswCYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:41:52.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Program.cs",
+              "RelativeDocumentMoniker": "lala\\Program.cs",
+              "ToolTip": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Program.cs",
+              "RelativeToolTip": "lala\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:41:34.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
