@@ -9,10 +9,41 @@ public class Carro
     public string modelo;
     public string placa;
     public int renavam;
-    public string chassi;
+    //public string chassi;
+    private string chassi;
+
+   
+
+    public Carro(string chassi_)
+
+    {
+        SetChassi(chassi_);
+        chassi = chassi_;
+
+    }
+    public void SetChassi(string chassi_)
+    {
+        chassi_ = chassi_.ToUpper();
+
+        if (chassi_.Length == 17 && !chassi_.Contains("O") && !chassi_.Contains("I") && !chassi_.Contains("Q"))
+        {
+            chassi_ = chassi_;
+        }
+        else
+        {
+            throw new Exception("Numero de chassi invalido.");
+        }
+ 
+    }
+
+    public string GetChassi()
+    { 
+        return chassi; 
+    }
 
     public Carro(int id_, string marca_, string modelo_, string placa_, int renavam_, string chassi_)
     {
+        SetChassi(chassi_);
         id = id_;
         marca = marca_;
         modelo = modelo_;
@@ -20,17 +51,13 @@ public class Carro
         renavam = renavam_;
         chassi = chassi_;
 
-        ValidarChassi(chassi_);
-    }
-
-    public Carro(string chassi_)
-
-    {
-        chassi = chassi_;
-        ValidarChassi(chassi_);
 
     }
-    public bool ValidarChassi(string chassi_)
+}
+
+
+    
+   /* public bool ValidarChassi(string chassi_)
     {
             //chassi = chassi.ToUpper();
            //if (chassi.Length == 17 && !chassi.Contains("O")&& !chassi.Contains("I") && !chassi.Contains("Q"))
@@ -53,3 +80,4 @@ public class Carro
     }
 }
 //testando novamente
+   */
