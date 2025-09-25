@@ -35,7 +35,7 @@ public class Carro
             //chassi = chassi.ToUpper();
            //if (chassi.Length == 17 && !chassi.Contains("O")&& !chassi.Contains("I") && !chassi.Contains("Q"))
            //codigo acima pode ser usado tbm nessa situação
-
+           
         chassi = chassi.ToUpper();
 
         if (chassi_.Length != 17)
@@ -52,4 +52,4 @@ public class Carro
 
     }
 }
-
+//testando commit
