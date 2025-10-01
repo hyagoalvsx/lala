@@ -26,8 +26,7 @@ catch (Exception ex)
 
 try
 {
-    Carro carro = new Carro(1, "Fiat", "Uno", "LSJKHI5", 87451, "9XWHE21JX24060831");
-    Console.WriteLine(carro.GetChassi());
+    Carro carro = new Carro(1,"TOYOTA", "COROLA","SGL1454", "641561458", "9XWHE21JX24060831");
 }
 catch (Exception ex)
 {

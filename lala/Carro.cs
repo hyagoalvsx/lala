@@ -7,9 +7,8 @@ public class Carro
     public int id;
     public string marca;
     public string modelo;
-    public string placa;
-    public int renavam;
-    //public string chassi;
+    private string placa;
+    public string renavam;
     private string chassi;
 
    
@@ -20,6 +19,51 @@ public class Carro
         SetChassi(chassi_);
         chassi = chassi_;
 
+    }
+
+    public void SetPlaca(string placaCarro)
+    {
+        placaCarro = placaCarro.ToUpper();
+
+        if (placaCarro.Length == 7)
+        {
+            
+            bool placaAntiga = char.IsLetter(placaCarro[0]) &&
+                          char.IsLetter(placaCarro[1]) &&
+                          char.IsLetter(placaCarro[2]) &&
+                          char.IsDigit(placaCarro[3]) &&
+                          char.IsDigit(placaCarro[4]) &&
+                          char.IsDigit(placaCarro[5]) &&
+                          char.IsDigit(placaCarro[6]);
+            
+            bool placaMercosul = char.IsLetter(placaCarro[0]) &&
+                                char.IsLetter(placaCarro[1]) &&
+                                 char.IsLetter(placaCarro[2]) &&
+                                  char.IsDigit(placaCarro[3]) &&
+                                  char.IsLetter(placaCarro[4]) &&
+                                  char.IsDigit(placaCarro[5]) &&
+                                  char.IsDigit(placaCarro[6]);
+
+            if (placaAntiga == true || placaMercosul == true)
+            {
+                placa = placaCarro;
+            }
+            else
+            {
+                throw new Exception("Placa inválida.");
+            }
+
+        }
+        else
+        {
+            throw new Exception("Placa inválida. \n" +
+            "Quantidade de caracteres errada.");
+        }
+    }
+
+    public string GetPlaca()
+    {
+        return placa;
     }
     public void SetChassi(string chassi_)
     {
@@ -41,7 +85,7 @@ public class Carro
         return chassi; 
     }
 
-    public Carro(int id_, string marca_, string modelo_, string placa_, int renavam_, string chassi_)
+    public Carro(int id_, string marca_, string modelo_, string placa_, string renavam_, string chassi_)
     {
         SetChassi(chassi_);
         id = id_;
