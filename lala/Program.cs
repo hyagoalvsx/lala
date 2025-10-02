@@ -26,9 +26,12 @@ catch (Exception ex)
 
 try
 {
-   // Carro carro = new Carro(1,"TOYOTA", "COROLA","HYA1694", "641561458", "9XWHE21JX24060831");
+/* Carro carro = new Carro(1,"TOYOTA", "COROLA","HYA1694", "641561458", "9XWHE21JX24060831");
     Carro carro2 = new Carro(2,"TOYOTA", "COROLA","PP5PKS", "641561458", "9XWHE21JX24060831");
     Console.WriteLine(carro2.GetPlaca());
+   */
+Funcionario f = new Funcionario("Hyago","hyago1305@g,ail.com","03768575284");
+    f.SetAnalisarCpf("03768575284");
 }
 catch (Exception ex)
 {
