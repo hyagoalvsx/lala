@@ -18,7 +18,6 @@ public class Carro
     {
         SetChassi(chassi_);
         chassi = chassi_;
-
     }
 
     public void SetPlaca(string placaCarro)
@@ -71,7 +70,7 @@ public class Carro
 
         if (chassi_.Length == 17 && !chassi_.Contains("O") && !chassi_.Contains("I") && !chassi_.Contains("Q"))
         {
-            chassi_ = chassi_;
+            chassi = chassi_;
         }
         else
         {
@@ -88,6 +87,7 @@ public class Carro
     public Carro(int id_, string marca_, string modelo_, string placa_, string renavam_, string chassi_)
     {
         SetChassi(chassi_);
+        SetPlaca(placa_);
         id = id_;
         marca = marca_;
         modelo = modelo_;
