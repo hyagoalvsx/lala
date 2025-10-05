@@ -30,11 +30,13 @@ try
     Carro carro2 = new Carro(2,"TOYOTA", "COROLA","PP5PKS", "641561458", "9XWHE21JX24060831");
     Console.WriteLine(carro2.GetPlaca());
    */
-Funcionario f = new Funcionario("Hyago","hyago1305@g,ail.com","03768575284");
-    f.SetAnalisarCpf("03768575284");
+Funcionario f = new Funcionario("Hyago","hyago1305@g,ail.com", "037.685.752-84");
+    f.SetAnalisarCpf("037.685.752-84");
 }
 catch (Exception ex)
 {
     Console.WriteLine(ex.Message);
 
 }
+//123.456.789-09
+//037.685.752-84
