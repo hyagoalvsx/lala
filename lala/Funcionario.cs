@@ -75,7 +75,7 @@
         {
             digito = 11 - resto;
         }
-        if (digito != (fun_cpf[9] - '0'))
+        if (digito != int.Parse(fun_cpf[9].ToString()))
             throw new Exception("CPF inválido!");
 
         int soma2 = 0;
@@ -99,7 +99,7 @@
         {
             digito2 = 11 - resto2;
         }
-        if (digito2 != (fun_cpf[10] - '0'))
+        if (digito2 != int.Parse(fun_cpf[10].ToString()))
             throw new Exception("CPF inválido!");
 
         cpf = fun_cpf;
