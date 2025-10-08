@@ -1,64 +1,97 @@
 ﻿public class Funcionario
 {
-    public string nome;
-    public string email;
-    private string cpfun;
+    private string nome;
+    private string email;
+    private int idade;
+    private string cpf;
 
-    public Funcionario(string nome_, string email_, string cpf_)
+    public Funcionario(string nome_, string email_, int idade_, string cpf_)
     {
-        nome = nome_;
-        email = email_;
-        cpfun = cpf_;
+        SetNome(nome_);
+        SetEmail(email_);
+        SetIdade(idade_);
         SetAnalisarCpf(cpf_);
+       
     }
-    public void SetAnalisarCpf(string cpf)
+
+    public void SetNome(string nomeFun)
     {
+        nome = nomeFun;
+    }
 
-        cpf = cpf.Replace(".", "");
-        cpf = cpf.Replace("-", "");
+    public string GetNome()
+    {
+        return nome;
+    }
 
-        if (cpf.Length == 11)
+    public void SetEmail(string emailFun)
+    { 
+        email = emailFun;
+    }
+
+    public string GetEmail()
+    { 
+     return email;
+    }
+    public void SetIdade(int idadeFun)
+    {
+        idade = idadeFun;
+    }
+
+    public int GetIdade()
+    {
+        return idade;
+    }
+
+    public void SetAnalisarCpf(string fun_cpf)
+    {
+        fun_cpf = fun_cpf.Replace(".", "");
+        fun_cpf = fun_cpf.Replace("-", "");
+
+        int soma1 = 0;
+        int multiplica1 = 10;
+        int resto;
+        int digito;
+
+        if (fun_cpf.Length != 11)
+            throw new Exception("CPF deve ter 11 dígitos!");
+
+
+        for (int i = 0; i < 9; i++)
+
         {
-            int soma1 = 0;
-            int multiplicar = 10;
-            int resto;
-            int digito;
+            int numero = int.Parse(fun_cpf[i].ToString());
+            soma1 += numero * multiplica1;
+            multiplica1--;
 
-
-            for (int i = 0; i < 9; i++)
-            {
-                soma1 += (cpf[i] - '0') * multiplicar;  // Converte char para int eficientemente
-                multiplicar--;  // diminuir para próximo 9 8 7 6...
-            }
-
+        }
         resto = soma1 % 11;
 
-            //calcular  digito
-
-            if (resto < 2)
-            {
-                digito = 0;
-            }
-            else 
-            {
-                digito = 11 - resto;
-            }
-            if (digito != (cpf[9] - '0'))
-                throw new Exception("CPF inválido!");
+        if (resto < 2)
+        {
+            digito = 0;
         }
+        else
+        {
+            digito = 11 - resto;
+        }
+        if (digito != (fun_cpf[9] - '0'))
+            throw new Exception("CPF inválido!");
+
         int soma2 = 0;
-        int multiplicar2 = 11;
+        int multiplica2 = 11;
         int resto2;
         int digito2;
-        for ( int i = 0; i <10; i++)
+
+        for (int i = 0; i < 10; i++)
         {
-            soma2 += (cpf[i] - '0') * multiplicar2;  // Converte char para int eficientemente
-            multiplicar2--;  // diminuir para próximo 9 8 7 6...
+            int numero2 = int.Parse(fun_cpf[i].ToString());
+            soma2 += numero2 * multiplica2;
+            multiplica2--;
         }
         resto2 = soma2 % 11;
 
-        //calcular o segundo digito
-        if(resto2 < 2)
+        if (resto2 < 2)
         {
             digito2 = 0;
         }
@@ -66,9 +99,16 @@
         {
             digito2 = 11 - resto2;
         }
-        if (digito2 != (cpf[10] - '0'))
+        if (digito2 != (fun_cpf[10] - '0'))
             throw new Exception("CPF inválido!");
 
-        cpfun = cpf;
+        cpf = fun_cpf;
+
     }
+
+    public string GetCpf()
+    {
+        return cpf;
+    }
+
 }
