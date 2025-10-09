@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\hyago\\OneDrive\\Documentos\\lala\\lala\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|c:\\users\\hyago\\onedrive\\documentos\\lala\\lala\\lala\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|solutionrelative:lala\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|c:\\users\\hyago\\onedrive\\documentos\\lala\\lala\\lala\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|solutionrelative:lala\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|c:\\users\\hyago\\onedrive\\documentos\\lala\\lala\\lala\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|solutionrelative:lala\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|c:\\users\\hyago\\onedrive\\documentos\\lala\\lala\\lala\\validar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|solutionrelative:lala\\validar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|c:\\users\\hyago\\onedrive\\documentos\\lala\\lala\\lala\\plano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|solutionrelative:lala\\plano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|c:\\users\\hyago\\onedrive\\documentos\\lala\\lala\\lala\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|solutionrelative:lala\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|c:\\users\\hyago\\onedrive\\documentos\\lala\\lala\\lala\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|solutionrelative:lala\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|c:\\users\\hyago\\onedrive\\documentos\\lala\\lala\\lala\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|solutionrelative:lala\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|c:\\users\\hyago\\onedrive\\documentos\\lala\\lala\\lala\\caixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|solutionrelative:lala\\caixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Plano.cs",
+              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\lala\\lala\\lala\\Plano.cs",
+              "RelativeDocumentMoniker": "lala\\Plano.cs",
+              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\lala\\lala\\lala\\Plano.cs",
+              "RelativeToolTip": "lala\\Plano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA8wBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T03:04:41.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\lala\\lala\\lala\\Program.cs",
+              "RelativeDocumentMoniker": "lala\\Program.cs",
+              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\lala\\lala\\lala\\Program.cs",
+              "RelativeToolTip": "lala\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:41:34.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Validar.cs",
+              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\lala\\lala\\lala\\Validar.cs",
+              "RelativeDocumentMoniker": "lala\\Validar.cs",
+              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\lala\\lala\\lala\\Validar.cs",
+              "RelativeToolTip": "lala\\Validar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T03:04:49.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Funcionario.cs",
               "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\lala\\lala\\lala\\Funcionario.cs",
               "RelativeDocumentMoniker": "lala\\Funcionario.cs",
               "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\lala\\lala\\lala\\Funcionario.cs",
               "RelativeToolTip": "lala\\Funcionario.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAAwFAAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwA0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-02T00:01:32.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "Contrato.cs",
+              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\lala\\lala\\lala\\Contrato.cs",
+              "RelativeDocumentMoniker": "lala\\Contrato.cs",
+              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\lala\\lala\\lala\\Contrato.cs",
+              "RelativeToolTip": "lala\\Contrato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T03:04:33.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\lala\\lala\\lala\\Cliente.cs",
+              "RelativeDocumentMoniker": "lala\\Cliente.cs",
+              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\lala\\lala\\lala\\Cliente.cs",
+              "RelativeToolTip": "lala\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T03:05:03.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Carro.cs",
               "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\lala\\lala\\lala\\Carro.cs",
               "RelativeDocumentMoniker": "lala\\Carro.cs",
               "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\lala\\lala\\lala\\Carro.cs",
               "RelativeToolTip": "lala\\Carro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAkwH4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T00:41:52.833Z"
+              "WhenOpened": "2025-09-18T00:41:52.833Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\lala\\lala\\lala\\Program.cs",
-              "RelativeDocumentMoniker": "lala\\Program.cs",
-              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\lala\\lala\\lala\\Program.cs",
-              "RelativeToolTip": "lala\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Caixa.cs",
+              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\lala\\lala\\lala\\Caixa.cs",
+              "RelativeDocumentMoniker": "lala\\Caixa.cs",
+              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\lala\\lala\\lala\\Caixa.cs",
+              "RelativeToolTip": "lala\\Caixa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T00:41:34.491Z",
+              "WhenOpened": "2025-10-09T03:05:12.063Z",
               "EditorCaption": ""
             }
           ]
