@@ -12,13 +12,14 @@
     }
     public void SetValorSugerido(double valorSugerido_)
     {
-        if (valorSugerido_ < 0)
+        if (valorSugerido_ > 0)
         {
-            throw new Exception("Valor invalido");
+            valorSugerido = valorSugerido_;
         }
         else
         {
-            valorSugerido = valorSugerido_;
+            throw new Exception("Valor invalido");
+
         }
 
     }
