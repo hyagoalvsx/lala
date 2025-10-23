@@ -67,6 +67,7 @@
     }
  }
 
+
 /*validar cpf correção professor
  * 
         fun_cpf = fun_cpf.Replace(".", "");

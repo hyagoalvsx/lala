@@ -27,9 +27,29 @@ catch (Exception ex)
     Console.WriteLine(ex.Message);
 }
 */
+/*validando cpf
+    Funcionario f = new Funcionario("Hyago", "hyago2158@gmail.com", "037.685.752-84");
+    f.SetAnalisarCpf("037.685.752-84");
+    Console.WriteLine($"{f.nome}, o seu email é {f.email}, e o cpf: {f.GetCPf()}");
+    */
 
+/* validando cliente
+ * Cliente c = new Cliente(13,"Hyago", "037.685.752-84", "Masculino");
+Console.WriteLine($"{c.id}, {c.nome}, cpf {c.GetCpf()}, sexo {c.sexo} ");
+*/
+
+/*Funcionario f = new Funcionario("Hyago", "hyago2158@gmail.com", "037.685.752-84");
+
+Caixa cx = new Caixa();
+cx.funcionarioCX =f;
+f.SetAnalisarCpf("037.685.752-84");
+cx.funcionarioCX.nome = "Maria";
+Console.WriteLine(f.nome);
+Console.WriteLine(f.GetCpf());
+*/
 try
 {
+
     /*validando cpf
     Funcionario f = new Funcionario("Hyago", "hyago2158@gmail.com", "037.685.752-84");
     f.SetAnalisarCpf("037.685.752-84");
@@ -51,9 +71,14 @@ try
      Console.WriteLine(f.GetCpf());
     */
 
+    
+
     Plano p = new Plano(1, "Plano estudante", 200.50);
     p.SetValorSugerido(200.50);
     Console.WriteLine($"{p.id}, {p.descricao}, {p.GetValorSugerido()}");
+
+
+
 }
 catch (Exception ex)
 {

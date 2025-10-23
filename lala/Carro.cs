@@ -11,7 +11,7 @@ public class Carro
     public string renavam;
     private string chassi;
 
-   
+
 
     public Carro(string chassi_)
 
@@ -26,7 +26,7 @@ public class Carro
 
         if (placaCarro.Length == 7)
         {
-            
+
             bool placaAntiga = char.IsLetter(placaCarro[0]) &&
                           char.IsLetter(placaCarro[1]) &&
                           char.IsLetter(placaCarro[2]) &&
@@ -34,7 +34,7 @@ public class Carro
                           char.IsDigit(placaCarro[4]) &&
                           char.IsDigit(placaCarro[5]) &&
                           char.IsDigit(placaCarro[6]);
-            
+
             bool placaMercosul = char.IsLetter(placaCarro[0]) &&
                                 char.IsLetter(placaCarro[1]) &&
                                  char.IsLetter(placaCarro[2]) &&
@@ -76,12 +76,12 @@ public class Carro
         {
             throw new Exception("Numero de chassi invalido.");
         }
- 
+
     }
 
     public string GetChassi()
-    { 
-        return chassi; 
+    {
+        return chassi;
     }
 
     public Carro(int id_, string marca_, string modelo_, string placa_, string renavam_, string chassi_)
@@ -100,28 +100,28 @@ public class Carro
 }
 
 
-    
-   /* public bool ValidarChassi(string chassi_)
-    {
-            //chassi = chassi.ToUpper();
-           //if (chassi.Length == 17 && !chassi.Contains("O")&& !chassi.Contains("I") && !chassi.Contains("Q"))
-           //codigo acima pode ser usado tbm nessa situação
-           
-        chassi = chassi.ToUpper();
 
-        if (chassi_.Length != 17)
-        {
-            throw new Exception("Numero de chassi invalido.");
-        }
+/* public bool ValidarChassi(string chassi_)
+ {
+         //chassi = chassi.ToUpper();
+        //if (chassi.Length == 17 && !chassi.Contains("O")&& !chassi.Contains("I") && !chassi.Contains("Q"))
+        //codigo acima pode ser usado tbm nessa situação
 
-        if (chassi_.Contains("I") || chassi_.Contains("Q") || chassi_.Contains("O"))
-        {
-            
-            throw new Exception("A letra do chassi é invalido.");
-        }
-        return true;
+     chassi = chassi.ToUpper();
 
-    }
+     if (chassi_.Length != 17)
+     {
+         throw new Exception("Numero de chassi invalido.");
+     }
+
+     if (chassi_.Contains("I") || chassi_.Contains("Q") || chassi_.Contains("O"))
+     {
+
+         throw new Exception("A letra do chassi é invalido.");
+     }
+     return true;
+
+ }
 }
 //testando novamente
-   */
+*/

@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|c:\\users\\2024202060021\\downloads\\lala\\lala\\lala\\contaestu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|solutionrelative:lala\\contaestu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|c:\\users\\2024202060021\\downloads\\lala\\lala\\lala\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|solutionrelative:lala\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|c:\\users\\2024202060021\\downloads\\lala\\lala\\lala\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|solutionrelative:lala\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|c:\\users\\2024202060021\\downloads\\lala\\lala\\lala\\contaempre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|solutionrelative:lala\\contaempre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|c:\\users\\2024202060021\\downloads\\lala\\lala\\lala\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|solutionrelative:lala\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|c:\\users\\2024202060021\\downloads\\lala\\lala\\lala\\contab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|solutionrelative:lala\\contab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|c:\\users\\2024202060021\\downloads\\lala\\lala\\lala\\caixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|solutionrelative:lala\\caixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|c:\\users\\2024202060021\\downloads\\lala\\lala\\lala\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|solutionrelative:lala\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|c:\\users\\2024202060021\\downloads\\lala\\lala\\lala\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|solutionrelative:lala\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|c:\\users\\2024202060021\\downloads\\lala\\lala\\lala\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|solutionrelative:lala\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|c:\\users\\2024202060021\\downloads\\lala\\lala\\lala\\plano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,22 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|c:\\users\\2024202060021\\downloads\\lala\\lala\\lala\\validar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|solutionrelative:lala\\validar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|c:\\users\\2024202060021\\downloads\\lala\\lala\\lala\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|solutionrelative:lala\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|c:\\users\\2024202060021\\downloads\\lala\\lala\\lala\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|solutionrelative:lala\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|c:\\users\\2024202060021\\downloads\\lala\\lala\\lala\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|solutionrelative:lala\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|c:\\users\\2024202060021\\downloads\\lala\\lala\\lala\\caixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC76E90D-D425-40C1-96B6-D2479883F345}|lala\\lala.csproj|solutionrelative:lala\\caixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,103 +58,162 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Contrato.cs",
-              "DocumentMoniker": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Contrato.cs",
-              "RelativeDocumentMoniker": "lala\\Contrato.cs",
-              "ToolTip": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Contrato.cs",
-              "RelativeToolTip": "lala\\Contrato.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T01:50:41.906Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Plano.cs",
-              "DocumentMoniker": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Plano.cs",
-              "RelativeDocumentMoniker": "lala\\Plano.cs",
-              "ToolTip": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Plano.cs",
-              "RelativeToolTip": "lala\\Plano.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAQwA4AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T01:49:02.708Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Caixa.cs",
-              "DocumentMoniker": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Caixa.cs",
-              "RelativeDocumentMoniker": "lala\\Caixa.cs",
-              "ToolTip": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Caixa.cs",
-              "RelativeToolTip": "lala\\Caixa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T01:32:51.391Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Validar.cs",
-              "DocumentMoniker": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Validar.cs",
-              "RelativeDocumentMoniker": "lala\\Validar.cs",
-              "ToolTip": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Validar.cs",
-              "RelativeToolTip": "lala\\Validar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAACAAAAAAAAAA==",
+              "Title": "ContaEmpre.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\ContaEmpre.cs",
+              "RelativeDocumentMoniker": "lala\\ContaEmpre.cs",
+              "ToolTip": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\ContaEmpre.cs",
+              "RelativeToolTip": "lala\\ContaEmpre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T00:38:53.443Z"
+              "WhenOpened": "2025-10-23T00:35:11.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContaEstu.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\ContaEstu.cs",
+              "RelativeDocumentMoniker": "lala\\ContaEstu.cs",
+              "ToolTip": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\ContaEstu.cs",
+              "RelativeToolTip": "lala\\ContaEstu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T00:24:35.264Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Cliente.cs",
-              "RelativeDocumentMoniker": "lala\\Cliente.cs",
-              "ToolTip": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Cliente.cs",
-              "RelativeToolTip": "lala\\Cliente.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T00:04:43.777Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Funcionario.cs",
               "DocumentMoniker": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Funcionario.cs",
               "RelativeDocumentMoniker": "lala\\Funcionario.cs",
               "ToolTip": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Funcionario.cs",
               "RelativeToolTip": "lala\\Funcionario.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAwAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T00:13:14.099Z"
+              "WhenOpened": "2025-10-09T00:13:14.099Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Carro.cs",
-              "DocumentMoniker": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Carro.cs",
-              "RelativeDocumentMoniker": "lala\\Carro.cs",
-              "ToolTip": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Carro.cs",
-              "RelativeToolTip": "lala\\Carro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T00:41:52.833Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Program.cs",
               "RelativeDocumentMoniker": "lala\\Program.cs",
               "ToolTip": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Program.cs",
               "RelativeToolTip": "lala\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T00:41:34.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Pessoa.cs",
+              "RelativeDocumentMoniker": "lala\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Pessoa.cs",
+              "RelativeToolTip": "lala\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T23:21:30.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContaB.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\ContaB.cs",
+              "RelativeDocumentMoniker": "lala\\ContaB.cs",
+              "ToolTip": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\ContaB.cs",
+              "RelativeToolTip": "lala\\ContaB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T00:12:01.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Caixa.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Caixa.cs",
+              "RelativeDocumentMoniker": "lala\\Caixa.cs",
+              "ToolTip": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Caixa.cs",
+              "RelativeToolTip": "lala\\Caixa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:32:51.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Cliente.cs",
+              "RelativeDocumentMoniker": "lala\\Cliente.cs",
+              "ToolTip": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Cliente.cs",
+              "RelativeToolTip": "lala\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T00:04:43.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Carro.cs",
+              "RelativeDocumentMoniker": "lala\\Carro.cs",
+              "ToolTip": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Carro.cs",
+              "RelativeToolTip": "lala\\Carro.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:41:52.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contrato.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Contrato.cs",
+              "RelativeDocumentMoniker": "lala\\Contrato.cs",
+              "ToolTip": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Contrato.cs",
+              "RelativeToolTip": "lala\\Contrato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:50:41.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Plano.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Plano.cs",
+              "RelativeDocumentMoniker": "lala\\Plano.cs",
+              "ToolTip": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Plano.cs",
+              "RelativeToolTip": "lala\\Plano.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:49:02.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Validar.cs",
+              "DocumentMoniker": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Validar.cs",
+              "RelativeDocumentMoniker": "lala\\Validar.cs",
+              "ToolTip": "C:\\Users\\2024202060021\\Downloads\\lala\\lala\\lala\\Validar.cs",
+              "RelativeToolTip": "lala\\Validar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T00:38:53.443Z",
               "EditorCaption": ""
             }
           ]

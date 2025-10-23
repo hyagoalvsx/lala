@@ -1,15 +1,12 @@
 ﻿using System.Security.Cryptography.X509Certificates;
 
-public class Cliente
+public class Cliente: Pessoa
 {
-    public int id;
-    public string nome;
-    public DateTime dataNasc;
     public string sexo;
     private string cpf_;
     public Cliente(int id_, string nome_, string cpf, string sexo_)
     {
-        id = id_;
+        id_pessoa = id_;
         nome = nome_;
         sexo = sexo_;
         cpf_ = cpf;
